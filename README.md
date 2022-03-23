@@ -1,2 +1,2 @@
 # fiap_cybersecurity
-Repositória Inteligência artificial - cybersecurity 
+Repositório Inteligência artificial - cybersecurity 
